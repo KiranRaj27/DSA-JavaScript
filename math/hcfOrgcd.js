@@ -1,0 +1,1 @@
+console.log('hce of gcd')
