@@ -1,3 +1,8 @@
+/**
+ * Function to check given number is palindrom
+ * @param {Integer} num
+ * @returns Boolean
+ */
 function palindromNumber(num) {
   let reverse = 0;
   let temp = num;
